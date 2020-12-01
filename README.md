@@ -1,4 +1,4 @@
-# argyle_scan
+# scan_upwork
 ## Installation
 
 1 - Open a terminal [1]
